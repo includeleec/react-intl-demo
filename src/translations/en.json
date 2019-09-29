@@ -1,0 +1,5 @@
+{
+	"app.hello": "Hello World",
+	"app.learn-react-link": "Learn React",
+	"app.text": "Edit <code>src/App.js</code> and save to reload.<br/>Now with {what}!"
+}

@@ -1,0 +1,5 @@
+{
+	"app.hello": "你好，世界呀",
+	"app.learn-react-link": "学习 react",
+	"app.text": "编辑 <code>src/App.js</code> and save to reload.<br/>Now with {what}!"
+}
